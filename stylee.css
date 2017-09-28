@@ -1,0 +1,9 @@
+.yellowText{
+  font-family: arial;
+  text-transform: capitalize;
+}
+
+style {
+  display: block;
+  border: 1px dashed black;
+}

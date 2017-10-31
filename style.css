@@ -1,13 +1,49 @@
-body {
-  background-color:red;
+body{
+  background-color: pink;
 }
 
-.greenText{
-  color: green;
-  font-style: italic;
+.fontSize{
+  font-size: 20px;
 }
 
-.oneLine{
-  display: inline;
-  font-size: 30px;
+.fontColor{
+  color: purple;
+}
+
+p{
+  font-family: monospace;
+}
+
+.textTransform{
+  text-transform: uppercase;
+}
+
+h1{
+  position: fixed;
+}
+
+.movePosition{
+  position: absolute;
+  left: 200px;
+
+}
+
+.nowRelative{
+  position: relative;
+  bottom: 20px;
+}
+
+.newColor li{
+  color: white;
+}
+
+h2, h3, ol{
+  font-family: sans-serif;
+}
+
+#box{
+  margin: 10px, 20%, 10px, 20%;
+  border: blue 4px double;
+  padding: 20px, 10%, 20px, 10%;
+
 }

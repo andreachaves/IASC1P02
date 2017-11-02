@@ -1,49 +1,40 @@
 body{
-  background-color: pink;
+  background-color: white;
 }
 
-.fontSize{
-  font-size: 20px;
+.box1{
+  border-style: dotted;
+  border-style: purple;
+  height:400px;
+  margin:10px;
 }
 
-.fontColor{
+.box1{
+  text-align: center;
+}
+
+.textColor{
+  color: orange;
+  font-size: 30px;
+}
+
+.textColor span{
+  color: red;
+
+}
+
+.moreStuff{
+  color: green;
+  font-size: 10px;
+  text-align: center;
+}
+
+.anotherOne{
   color: purple;
+  font-size: 10px;
+  text-align: right;
 }
 
-p{
-  font-family: monospace;
-}
-
-.textTransform{
-  text-transform: uppercase;
-}
-
-h1{
-  position: fixed;
-}
-
-.movePosition{
-  position: absolute;
-  left: 200px;
-
-}
-
-.nowRelative{
-  position: relative;
-  bottom: 20px;
-}
-
-.newColor li{
-  color: white;
-}
-
-h2, h3, ol{
-  font-family: sans-serif;
-}
-
-#box{
-  margin: 10px, 20%, 10px, 20%;
-  border: blue 4px double;
-  padding: 20px, 10%, 20px, 10%;
-
+.colorChange{
+  color: yellow;
 }

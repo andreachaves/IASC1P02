@@ -334,7 +334,7 @@ a {
 }
 
 .w3-btn.w3-disabled:hover, .w3-btn:disabled:hover {
-    box-shadow: none
+    box-shadow:  0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 .w3-badge, .w3-tag {
